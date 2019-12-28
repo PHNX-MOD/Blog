@@ -1,1 +1,1 @@
-# Blog using flask framework
+# A simple blog using Flask framework
