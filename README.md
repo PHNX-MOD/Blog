@@ -1,2 +1,0 @@
-# Blog
-# to_do
